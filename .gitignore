@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+uploads/
+app/static/ux.js
+app/static/ux2.js
